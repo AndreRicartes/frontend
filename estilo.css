@@ -1,0 +1,15 @@
+h1, h2{
+    color: blue;
+    font-size: 50px;
+    background-color: darkgoldenrod;
+}
+
+h3{
+    color: yellow;
+    font-size: 30px;
+}
+
+p{
+    color: blue;
+    font-size: 20px;
+}
